@@ -1,0 +1,3 @@
+[submodule "GitTestCommon"]
+	path = GitTestCommon
+	url = https://github.com/wh1pch81n/GitTestCommon.git
